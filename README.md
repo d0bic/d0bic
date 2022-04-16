@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d0bic
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML CSS and Javascript
- 
+ - 🐢 Slow Learner 
 
 <!---
 d0bic/d0bic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
